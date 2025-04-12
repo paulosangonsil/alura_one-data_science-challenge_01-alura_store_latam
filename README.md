@@ -28,21 +28,24 @@ El repositorio contiene un único archivo principal:
 
 * **Gráfico de Facturación Total por Tienda:**
 
- ![Gráfico de Categorías](URL_DEL_GRÁFICO_O_IMAGEN_2)
+ ![Gráfico de Facturación](imgs/01-ingreso_total_por_tienda.png)
 
- Este gráfico muestra la facturación total de cada tienda. Podemos observar que la Tienda 'X' tiene la menor facturación, lo que sugiere un menor rendimiento en comparación con las otras tiendas.
+ Estos gráficos muestran la facturación total de cada tienda. Podemos observar que la Tienda '4' tiene la menor facturación, lo que sugiere un menor rendimiento en comparación con las otras tiendas.
 
 * **Categorías Más Populares por Tienda:**
 
- ![Gráfico de Categorías](URL_DEL_GRÁFICO_O_IMAGEN_2)
+ ![Gráfico de Categorías Tienda 1](imgs/02-dist_categ_tienda01.png)
+ ![Gráfico de Categorías Tienda 2](imgs/02-dist_categ_tienda02.png)
+ ![Gráfico de Categorías Tienda 3](imgs/02-dist_categ_tienda03.png)
+ ![Gráfico de Categorías Tienda 4](imgs/02-dist_categ_tienda04.png)
 
- Este gráfico revela que la Tienda 'Y' tiene ... (una fuerte concentración en la categoría "Electrónicos", mientras que la Tienda B diversifica más sus ventas).
+ Estos gráficos revelan que la categría 'Muebles' es la más evidente en 3 de las 4 tiendas.
 
 * **Promedio de Evaluación de Clientes:**
 
- ![Gráfico de Evaluaciones](URL_DEL_GRÁFICO_O_IMAGEN_3)
+ ![Gráfico de Evaluaciones](imgs/03-calif_promedio.png)
 
- Este gráfico muestra la evaluación promedio de los clientes por tienda. La Tienda 'X' tiene la mejor evaluación promedio, lo que sugiere una mayor satisfacción del cliente.
+ Este gráfico muestra la evaluación promedio de los clientes por tienda. La Tienda '3' tiene la mejor evaluación promedio, lo que sugiere una mayor satisfacción del cliente.
 
 ## Instrucciones para Ejecutar el Notebook
 
