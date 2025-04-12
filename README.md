@@ -20,9 +20,9 @@ El repositorio contiene un único archivo principal:
 
 ## Organización de Archivos
 
-├── AluraStoreLatam.ipynb # Notebook principal con el análisis completo
-├── imgs # Carpeta con las gráficos
-└── README.md # Este archivo
+├── AluraStoreLatam.ipynb # Notebook principal con el análisis completo.
+├── imgs # Carpeta con las gráficos.
+└── README.md # Este archivo.
 
 ## Gráficos e Insights
 
@@ -30,7 +30,7 @@ El repositorio contiene un único archivo principal:
 
  ![Gráfico de Facturación](imgs/01-ingreso_total_por_tienda.png)
 
- Estos gráficos muestran la facturación total de cada tienda. Podemos observar que la Tienda '4' tiene la menor facturación, lo que sugiere un menor rendimiento en comparación con las otras tiendas.
+ Est gráfico muestra la facturación total de cada tienda. Podemos observar que la Tienda '4' tiene la menor facturación, lo que sugiere un menor rendimiento en comparación con las otras tiendas.
 
 * **Categorías Más Populares por Tienda:**
 
